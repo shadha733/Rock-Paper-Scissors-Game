@@ -24,4 +24,4 @@ A fun and interactive web-based Rock–Paper–Scissors game built with **HTML**
 4. See the result instantly!
 
 ## 📷 Screenshot
-![Game Screenshot](Screenshot .png)
+![Game Screenshot](Screenshot.png)
